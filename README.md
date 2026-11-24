@@ -31,8 +31,10 @@ Die folgenden Bilder sind **Gestaltungsentwürfe**, keine Aufnahmen des laufende
 
 ## 🆕 Aktuelles Changelog
 
+- Milchglas-Desktop (hell und dunkel), Ampel-Fensterknöpfe und Kontrollzentrum in der Menüleiste.
+- AppStore mit Flathub und allen Zumbyte-Apps direkt aus den offiziellen Releases.
+- „Treiber & Updates“ sowie Windows-Programme und -Spiele per Doppelklick (Wine, DXVK, GE-Proton).
 - Neuaufbau als bootc-Image auf Fedora 45 Kinoite gestartet.
-- Entwicklungsumgebung mit Live-Vorschau in einer Test-VM eingerichtet.
 
 [Alle Änderungen](CHANGELOG.md).
 
@@ -46,9 +48,10 @@ Diese Funktionen sind geplant und entstehen Schritt für Schritt.
 | **Bootscreen** | Ruhiger Start mit pulsierendem Logo und Fortschrittsanzeige. Die Passwortabfrage für verschlüsselte Laufwerke erscheint im selben Stil. |
 | **Desktop** | Menüleiste mit globalem Menü, Dock, Kontrollzentrum, Übersicht aller Fenster und Schnellsuche. Hell, dunkel oder automatisch, mit einer einheitlichen Akzentfarbe. |
 | **Symbole und Schrift** | Ein durchgehender Symbolsatz auf Basis von Material Symbols und die Schrift Inter. Auch Apps anderer Anbieter werden passend eingefärbt. |
-| **Gaming** | Steam, Gamescope, MangoHud, GameMode und 32-Bit-Vulkan. Optionaler Spielmodus mit Steam Big Picture direkt bei der Anmeldung. |
+| **Gaming** | Steam, Gamescope, MangoHud, GameMode und 32-Bit-Vulkan. Optionaler Spielmodus mit Steam Big Picture direkt bei der Anmeldung. Windows-Spiele und -Programme laufen über Wine mit DXVK oder GE-Proton. |
+| **Treiber** | „Treiber & Updates“ erkennt die Hardware, zeigt den Treiber jedes Geräts und hält System, Firmware und Apps aktuell. |
 | **Einrichtung** | Vollbild-Assistent beim ersten Start: Sprache und Region, Tastatur, Netzwerk, Benutzerkonto, Passwort oder PIN, Darstellung und Datenschutz. |
-| **Eigene Apps** | Softwareupdate, Gaming-Zentrale, Systeminfo, Schlüsselbund und App-Store, alle im selben Design. |
+| **Eigene Apps** | Gaming Center, Schlüsselbund, Treiber & Updates und AppStore (Flathub und alle Zumbyte-Apps, auch Vorabversionen), alle im selben Design. |
 
 ## 🔐 Sicherheit
 
